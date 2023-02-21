@@ -17,8 +17,8 @@ urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
 
 #  FGT and Token can be hard coded or input based.
 
-token = "typG86xtnpN48Gzn5f1h6zx3Hwgz0s"
-host = "10.10.90.1"
+token = "typGXXXXXXXXXXXXXXXwgz0s"
+host = "x.x.x.x"
 client_cnt_total = 0
 ap_count = 0
 time_sleep = 15
